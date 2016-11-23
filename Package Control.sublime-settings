@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Better Completion",
+		"BracketHighlighter",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"CTags",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"JavaScript Completions",
+		"JsFormat",
+		"LiveReload",
+		"MarkdownEditing",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"PackageResourceViewer",
+		"SideBarEnhancements",
+		"SideBarFolders",
+		"Sublimerge Pro",
+		"TypeScript"
+	]
+}
