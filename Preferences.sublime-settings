@@ -1,14 +1,17 @@
 {
 	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"font_face": "Consolas",
 	"font_size": 14,
-	"highlight_modified_tabs": true,
 	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"SideBarFolders",
 		"Vintage"
 	],
 	"remember_full_screen": true,
 	"show_encoding": true,
-	"caret_style": "phase"
+	"theme": "Material-Theme.sublime-theme"
 }
