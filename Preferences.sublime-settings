@@ -3,10 +3,12 @@
 	"font_face": "Consolas",
 	"font_size": 14,
 	"highlight_modified_tabs": true,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"remember_full_screen": true,
-	"show_encoding": true
+	"show_encoding": true,
+	"caret_style": "phase"
 }
